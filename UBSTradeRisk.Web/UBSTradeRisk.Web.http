@@ -1,0 +1,6 @@
+@UBSTradeRisk.Web_HostAddress = http://localhost:5216
+
+GET {{UBSTradeRisk.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

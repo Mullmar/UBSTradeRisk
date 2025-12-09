@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TradeRisk.Application/TradeRisk.Application.csproj" />
+  <Project Path="TradeRisk.Domain/TradeRisk.Domain.csproj" />
+  <Project Path="TradeRisk.Tests/TradeRisk.Tests.csproj" />
+  <Project Path="UBSTradeRisk.Web/UBSTradeRisk.Web.csproj" />
+</Solution>
