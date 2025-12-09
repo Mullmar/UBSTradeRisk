@@ -8,6 +8,8 @@ API REST para classificação de risco de trades e análise de distribuição de
 
 3 - Compilar e Rodar 
 
+4 - Acesse Swagger: http://localhost:5000/swagger ou https://localhost:5001/swagger (ou porta mostrada no console)
+
 ## Requisitos
 - .NET SDK 10.0
 - Windows, macOS ou Linux
